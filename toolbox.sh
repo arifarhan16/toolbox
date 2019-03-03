@@ -912,6 +912,7 @@ sleep 1;
 echo '';
 echo "? : Help"; 
 echo '';
+date
 echo -e "\033[1;34mReqruitment (WAJIB) : ";
 echo -e "\033[1;33m===[+]===";
 echo '';
