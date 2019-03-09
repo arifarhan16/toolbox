@@ -917,6 +917,9 @@ echo  "\033[1;33m===[+]===";
 echo '';
 echo  "\033[1;32m--PHPL : Install PHP ( LINUX ) ";
 echo  "\033[1;32m--PHPA : Install PHP ( TERMUX ) ";
+echo  "\033[1;32m--CU   : Install Curl ( TERMUX ) ";
+echo  "\033[1;32m--MC   : Install MECHANIZE ( TERMUX / LINUX ) ";
+echo  "\033[1;32m--R    : Install Reqruitment.txt [ khusus Tools MBF ]( TERMUX / LINUX ) ";
 echo  "\033[1;32m--GIT  : Install GIT ( TERMUX / LINUX ) ";
 echo  "\033[1;32m--PY   : Install PYTHON ( TERMUX / LINUX ) ";
 echo  "\033[1;32m--PY2  : Install PYTHON2 ( TERMUX / LINUX ) ";
@@ -933,6 +936,9 @@ echo  "\033[1;35m6 : Install Torshammer ( DDoS) ";
 echo  "\033[1;35m7 : Install Auto Fb Reaction";
 echo  "\033[1;35m8 : Install HASHKILLER ";
 echo  "\033[1;35m9 : Install Vbug Maker ( virus maker )";
+echo  "\033[1;35m10 : Install MBF Facebook ( Hack Facebook )";
+echo  "\033[1;35m11 : Install OSIF Facebook ( Hack Facebook )";
+echo  "\033[1;35m12 : Install AutoReact Facebook ( Tools Facebook )";
 echo '';
 echo '';
 echo -n  "\033[1;34m[ Installer ]>> ";
@@ -957,6 +963,18 @@ elif [ "$Pilihan" = '8' ]; then
 git clone https://github.com/FajriHidayat088/FHX-Hash-Killer.git
 elif [ "$Pilihan" = '9' ]; then
 git clone https://github.com/Cyser-Inc/Virus-Maker.git
+elif [ "$Pilihan" = '10' ]; then
+git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
+elif [ "$Pilihan" = '11' ]; then
+echo "[!] Harus Ada requirements.txt ";
+git clone https://github.com/ciku370/OSIF.git
+elif [ "$Pilihan" = '12' ]; then
+git clone http://github.com/AMVengeance/FB-React.git
+
+# BATAS /////////
+
+elif [ "$Pilihan" = '--CU']; then
+pkg install curl
 elif [ "$Pilihan" = '--PHP' ]; then
 pkg install php
 elif [ "$Pilihan" = '--PHPL' ];then
@@ -969,6 +987,10 @@ elif [ "$Pilihan" = '--PY2' ]; then
 pkg install python2
 elif [ "$Pilihan" = '--GIT' ]; then
 apt install git
+elif [ "$Pilihan" = '--MC' ]; then
+pip2 install mechanize
+elif [ "$Pilihan" = '--r' ]; then
+pip2 install -r requirements.txt
 elif [ "$Pilihan" = '?' ]; then
 echo "========[ Cara Penggunaan ]========";
 echo "1. Harus Sudah Terinstall Reqruitment";
