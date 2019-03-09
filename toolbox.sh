@@ -104,7 +104,7 @@ echo "memulai program installEr .0.. [|]";
 sleep 0.1;
 clear
 echo "memulai program installeR ..0. [/]";
-echo " BERSABAR GAN LAGI LOADING "0
+
 clear
 echo "memulai program installer ...0 [-]";
 
@@ -912,7 +912,6 @@ sleep 1;
 echo '';
 echo "? : Help"; 
 echo '';
-date
 echo -e "\033[1;34mReqruitment (WAJIB) : ";
 echo -e "\033[1;33m===[+]===";
 echo '';
