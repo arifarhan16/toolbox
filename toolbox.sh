@@ -12,7 +12,7 @@
 
 clear
 echo "memulai program installer .... [/]";
-echo -e "\033[1;36m BERSABAR GAN LAGI LOADING ";
+echo  "\033[1;36m BERSABAR GAN LAGI LOADING ";
 sleep 0.1;
 clear
 echo "Memulai program installer 0... [-]";
@@ -899,43 +899,43 @@ echo "System Ok Ready To Use !"
 clear
 echo '';
 echo '';
-echo -e "\033[91m===============================";
-echo -e "\033[1;34mHOME OF INSTALLER TOOLS HACKING";
-echo -e "\033[91m===============================";
-echo -e "\033[1;36m     AUTO INSTALLER ";
-echo -e "\033[91m===============================";
-echo -e "\033[1;34m Author : Cy#b3r00q Ft Cy#b3r00M ";
-echo -e "\033[1;34m Team : IndoSec | BekasiSec ";
-echo -e "\033[1;34m Since : 2014 - 2019";
-echo -e "\033[91m===============================";
+echo  "\033[91m===============================";
+echo  "\033[1;34mHOME OF INSTALLER TOOLS HACKING";
+echo  "\033[91m===============================";
+echo  "\033[1;36m     AUTO INSTALLER ";
+echo  "\033[91m===============================";
+echo  "\033[1;34m Author : Cy#b3r00q Ft Cy#b3r00M ";
+echo  "\033[1;34m Team : IndoSec | BekasiSec ";
+echo  "\033[1;34m Since : 2014 - 2019";
+echo  "\033[91m===============================";
 sleep 1;
 echo '';
 echo "? : Help"; 
 echo '';
-echo -e "\033[1;34mReqruitment (WAJIB) : ";
-echo -e "\033[1;33m===[+]===";
+echo  "\033[1;34mReqruitment (WAJIB) : ";
+echo  "\033[1;33m===[+]===";
 echo '';
-echo -e "\033[1;32m--PHPL : Install PHP ( LINUX ) ";
-echo -e "\033[1;32m--PHPA : Install PHP ( TERMUX ) ";
-echo -e "\033[1;32m--GIT  : Install GIT ( TERMUX / LINUX ) ";
-echo -e "\033[1;32m--PY   : Install PYTHON ( TERMUX / LINUX ) ";
-echo -e "\033[1;32m--PY2  : Install PYTHON2 ( TERMUX / LINUX ) ";
+echo  "\033[1;32m--PHPL : Install PHP ( LINUX ) ";
+echo  "\033[1;32m--PHPA : Install PHP ( TERMUX ) ";
+echo  "\033[1;32m--GIT  : Install GIT ( TERMUX / LINUX ) ";
+echo  "\033[1;32m--PY   : Install PYTHON ( TERMUX / LINUX ) ";
+echo  "\033[1;32m--PY2  : Install PYTHON2 ( TERMUX / LINUX ) ";
 echo '';
-echo -e "\033[1;34mPilih Tools Yang Akan Diinstall : ";
-echo -e "\033[1;33m===[+]===";
+echo  "\033[1;34mPilih Tools Yang Akan Diinstall : ";
+echo  "\033[1;33m===[+]===";
 echo '';
-echo -e "\033[1;35m1 : Install WebDav";
-echo -e "\033[1;35m2 : Install CheckPort";
-echo -e "\033[1;35m3 : Install SQLMAP";
-echo -e "\033[1;35m4 : Install Admin Finder";
-echo -e "\033[1;35m5 : Install Hammer ( DDoS ) ";
-echo -e "\033[1;35m6 : Install Torshammer ( DDoS) ";
-echo -e "\033[1;35m7 : Install Auto Fb Reaction";
-echo -e "\033[1;35m8 : Install HASHKILLER ";
-echo -e "\033[1;35m9 : Install Vbug Maker ( virus maker )";
+echo  "\033[1;35m1 : Install WebDav";
+echo  "\033[1;35m2 : Install CheckPort";
+echo  "\033[1;35m3 : Install SQLMAP";
+echo  "\033[1;35m4 : Install Admin Finder";
+echo  "\033[1;35m5 : Install Hammer ( DDoS ) ";
+echo  "\033[1;35m6 : Install Torshammer ( DDoS) ";
+echo  "\033[1;35m7 : Install Auto Fb Reaction";
+echo  "\033[1;35m8 : Install HASHKILLER ";
+echo  "\033[1;35m9 : Install Vbug Maker ( virus maker )";
 echo '';
 echo '';
-echo -n -e "\033[1;34m[ Installer ]>> ";
+echo -n  "\033[1;34m[ Installer ]>> ";
 read Pilihan
 
 if [ "$Pilihan" = '1' ]; 
@@ -961,6 +961,8 @@ elif [ "$Pilihan" = '--PHP' ]; then
 pkg install php
 elif [ "$Pilihan" = '--PHPL' ];then
 apt install php
+elif [ "$Pilihan" = '--PHPA' ]; then
+pkg install php
 elif [ "$Pilihan" = '--PY' ]; then
 pkg install python
 elif [ "$Pilihan" = '--PY2' ]; then
