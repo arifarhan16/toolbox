@@ -1,1000 +1,123 @@
-#!/bin/bash
-
-# GAUSAH RECODE KALO MAU DIHARGAI !
-# BIKIN TOOLS SUSAH JADI JANGAN BACOT AJG !
-# =========================================
-# Copyright @ Cy#b3r00q + Cyber00m 
-# HACKER KOK BUTA PROGRAM ! 
-
-
-
-#!/bin/bash
-
-clear
-echo "memulai program installer .... [/]";
-echo  "\033[1;36m BERSABAR GAN LAGI LOADING ";
-sleep 0.1;
-clear
-echo "Memulai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ..0. [/]";
-
-clear
-echo "memulai program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ..0. [\]";
-
-clear
-echo "memulai program installer ...0 [|]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer 0... [/]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer .0.. [-]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler ...0 [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer 0... [/]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr .0.. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ..0. [\]";
-
-clear
-echo "memulai program installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ..0. [\]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer .0.. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ..0. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller ...0 [-]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller 0... [\]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler 0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ...0 [/]";
-echo " BERSABAR GAN LAGI LOADING "0
-clear
-echo "memulai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ...0 [\]";
-
-clear
-echo "memulai program installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ...0 [\]";
-
-clear
-echo "memulai program installer 0... [/]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer .0.. [-]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ...00 [/]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer .0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer ..0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer ...0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ....0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer .0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer ..0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer ...0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ....0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller .0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller ..0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller ...0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ....0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler .0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer ..0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr ...0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ....0 [/]";
-
-clear
-echo "memulai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer .0.. [\]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer ..0. [|]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ...0 [/]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer 0... [-]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ....0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "Memulai program installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "mEmulai program installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "meMulai program installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memUlai program installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "memuLai program installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulAi program installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulaI program installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai Program installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai pRogram installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai prOgram installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai proGram installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai progRam installer 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai progrAm installer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai prograM installer ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program Installer ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program iNstaller 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program inStaller .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program insTaller ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program instAller ...0 [\]";
-
-sleep 0.1;
-clear
-echo "memulai program instaLler 0... [|]";
-
-sleep 0.1;
-clear
-echo "memulai program instalLer .0.. [/]";
-
-sleep 0.1;
-clear
-echo "memulai program installEr ..0. [-]";
-
-sleep 0.1;
-clear
-echo "memulai program installeR ...0.[\]";
-clear
-echo " STARTING INSTALLER ENGINE v.1 ....";
-echo " Please Wait....";
-echo " CHECKING System .";
-sleep 4;
-clear
-echo " CHECKING System ..";
-sleep 4;
-clear
-echo " CHECKING System ....";
-sleep 4;
-clear
-echo " CHECKING System .....";
-sleep 4;
-clear
-echo " CHECKING System ......";
-clear
-echo " CHECKING System .";
-sleep 4;
-clear
-echo " CHECKING System ..";
-sleep  4;
-clear
-echo " CHECKING System ....";
-sleep 4;
-clear
-echo " CHECKING System .....";
-sleep 4;
-clear
-echo " CHECKING System ......";
-echo "System Ok Ready To Use !"
-clear
-echo '';
-echo '';
-echo  "\033[91m===============================";
-echo  "\033[1;34mHOME OF INSTALLER TOOLS HACKING";
-echo  "\033[91m===============================";
-echo  "\033[1;36m     AUTO INSTALLER ";
-echo  "\033[91m===============================";
-echo  "\033[1;34m Author : Cy#b3r00q Ft Cy#b3r00M ";
-echo  "\033[1;34m Team : IndoSec | BekasiSec ";
-echo  "\033[1;34m Since : 2014 - 2019";
-echo  "\033[91m===============================";
+#!bin/bash
+# ////////////////////////////////////////////////
+#
+# UPDATE TANGGAL 10/02/2018
+# Fitur Update 
+# Loading Lebih Cepat :V 
+# Anti Lag
+# Anti Log :V
+# Gak Usah Ganti Author Kalo Mau Dihargain 
+# Ingat Anda Miskin Jadi Gak Usah Banyak Tingkah 
+# 
+# ////////////////////////////////////////////////
+clear
+echo "Memulai Installer...";
 sleep 1;
+clear
+echo "Checking System..."; 
+sleep 1;
+clear
 echo '';
-echo "? : Help"; 
+# ///////////////////////////////////////////////
+#
+# THANKS YG UDAH SUPPORT W BUAT BIKIN & UPDATE 
+# Special Thanks : 
+# IndoSec | BekasiSec | 99Syndicate | SCT | GHI
+# 
+# ///////////////////////////////////////////////
+echo "
+      \ /   -Installer V.1-
+      o o   Author : Cy#b3r00q Ft Cy#b3r00M
+     /^^^\  Team   : IndoSec | BekasiSec
+     |___|  Since  : 2018 | 2019 ";
 echo '';
-echo  "\033[1;34mReqruitment (WAJIB) : ";
-echo  "\033[1;33m===[+]===";
+echo "\033[1;34mUse '\033[1;33m?\033[1;34m' For More Information Or '\033[1;33mex\033[1;34m' For Exit";
+echo -n  "\033[1;34m >> ";
+read masuk
+if [ "$masuk" = 'ex' ]; then
+exit
+elif [ "$masuk" = '?' ]; then
+echo "";
+echo "Loading Database...";
+sleep 1;
+clear
+echo  "\033[1;33m===[+]======[+]======[+]===";
 echo '';
-echo  "\033[1;32m--PHPL : Install PHP ( LINUX ) ";
-echo  "\033[1;32m--PHPA : Install PHP ( TERMUX ) ";
-echo  "\033[1;32m--CU   : Install Curl ( TERMUX ) ";
-echo  "\033[1;32m--MC   : Install MECHANIZE ( TERMUX / LINUX ) ";
-echo  "\033[1;32m--R    : Install Reqruitment.txt [ khusus Tools MBF ]( TERMUX / LINUX ) ";
-echo  "\033[1;32m--GIT  : Install GIT ( TERMUX / LINUX ) ";
-echo  "\033[1;32m--PY   : Install PYTHON ( TERMUX / LINUX ) ";
-echo  "\033[1;32m--PY2  : Install PYTHON2 ( TERMUX / LINUX ) ";
+echo  "\033[1;32m--PHPL : Install PHP    (L) | --GIT : Install GIT     ( T/L ) ";
+echo  "\033[1;32m--CU   : Install Curl   (T) | --r   : Install Req.txt ( T/L ) ";
+echo  "\033[1;32m--PHPA : Install PHP    (T) | --PY  : Install PYTHON  ( T/L ) ";
+echo  "\033[1;32m--UP   : Update Package (T) | --PY2 : Install PYTHON2 ( T/L ) ";
+echo  "\033[1;32m--UG   : Upgrade Package(T) | --PY3 : Install PYTHON3 (  L  ) ";
+echo  "\033[1;32m--T    : INSTALL TOILET (T) | --FIG : Install LOLCAT  ( T/L ) ";
 echo '';
-echo  "\033[1;34mPilih Tools Yang Akan Diinstall : ";
-echo  "\033[1;33m===[+]===";
+echo  "\033[1;33m===[+]======[+]======[+]===";
 echo '';
-echo  "\033[1;35m1 : Install WebDav";
-echo  "\033[1;35m2 : Install CheckPort";
-echo  "\033[1;35m3 : Install SQLMAP";
-echo  "\033[1;35m4 : Install Admin Finder";
-echo  "\033[1;35m5 : Install Hammer ( DDoS ) ";
-echo  "\033[1;35m6 : Install Torshammer ( DDoS) ";
-echo  "\033[1;35m7 : Install Auto Fb Reaction";
-echo  "\033[1;35m8 : Install HASHKILLER ";
-echo  "\033[1;35m9 : Install Vbug Maker ( virus maker )";
-echo  "\033[1;35m10 : Install MBF Facebook ( Hack Facebook )";
-echo  "\033[1;35m11 : Install OSIF Facebook ( Hack Facebook )";
-echo  "\033[1;35m12 : Install AutoReact Facebook ( Tools Facebook )";
+echo  "\033[1;35m1 : WebDav       | 7  : CheckPort";
+echo  "\033[1;35m2 : SQLMAP       | 8  : Admin Finder";
+echo  "\033[1;35m3 : Hammer       | 8  : HASHKILLER ";
+echo  "\033[1;35m4 : THorshammer  | 9  : MBF Fb";
+echo  "\033[1;35m5 : AutoReaction | 10 : OSIF Fb";
+echo  "\033[1;35m6 : VirMaker     | 11 : AutoReaction V.2";
 echo '';
+echo  "\033[1;30m===[+]======[+]======[+]===";
 echo '';
+echo "\033[1;33mNB : JIKA ADA YG ERROR DALAM TOOLS MOHON DIMAKLUMI";
+echo "\033[1;33mNB : T = TERMUX | L = Linux ";
+echo "\033[1;33mNB : DIHARAPKAN YG TOOLS YG BERWARNA HIJAU HARUS SUDAH DI INSTALL SEMUA";
+echo "\033[1;33mNB : JIKA TERMUX HARAP PONSELNYA DI MIRINGKAN ";
+echo "";
 echo -n  "\033[1;34m[ Installer ]>> ";
 read Pilihan
-
-if [ "$Pilihan" = '1' ]; 
-then
+elif [ "$Pilihan" = '1' ]; then
 git clone https://github.com/arifarhan16/webjav.git
-elif [ "$Pilihan" = '2' ]; then
-git clone https://github.com/arifarhan16/checker.git
-elif [ "$Pilihan" = '3' ]; then
-git clone https://github.com/sqlmapproject/sqlmap.git
-elif [ "$Pilihan" = '4' ]; then
-git clone https://github.com/arifarhan16/adfin.git
-elif [ "$Pilihan" = '5' ]; then
-git clone https://github.com/cyweb/hammer.git
-elif [ "$Pilihan" = '6' ]; then
-git clone https://github.com/dotfighter/torshammer.git
 elif [ "$Pilihan" = '7' ]; then
+git clone https://github.com/arifarhan16/checker.git
+elif [ "$Pilihan" = '2' ]; then
+git clone https://github.com/sqlmapproject/sqlmap.git
+elif [ "$Pilihan" = '8' ]; then
+git clone https://github.com/arifarhan16/adfin.git
+elif [ "$Pilihan" = '3' ]; then
+git clone https://github.com/cyweb/hammer.git
+elif [ "$Pilihan" = '4' ]; then
+git clone https://github.com/dotfighter/torshammer.git
+elif [ "$Pilihan" = '5' ]; then
 git clone https://github.com/tomiashari/fb-autoreaction.git
 elif [ "$Pilihan" = '8' ]; then
 git clone https://github.com/FajriHidayat088/FHX-Hash-Killer.git
-elif [ "$Pilihan" = '9' ]; then
+elif [ "$Pilihan" = '6' ]; then
 git clone https://github.com/Cyser-Inc/Virus-Maker.git
-elif [ "$Pilihan" = '10' ]; then
+elif [ "$Pilihan" = '9' ]; then
 git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-elif [ "$Pilihan" = '11' ]; then
+elif [ "$Pilihan" = '10' ]; then
 echo "[!] Harus Ada requirements.txt ";
 git clone https://github.com/ciku370/OSIF.git
-elif [ "$Pilihan" = '12' ]; then
+elif [ "$Pilihan" = '11' ]; then
 git clone http://github.com/AMVengeance/FB-React.git
-
-# BATAS /////////
-
-elif [ "$Pilihan" = '--CU']; then
-pkg install curl
+elif [ "$Pilihan" = '--PY3' ]; then
+apt-get install python3
 elif [ "$Pilihan" = '--PHP' ]; then
 pkg install php
 elif [ "$Pilihan" = '--PHPL' ];then
 apt install php
-elif [ "$Pilihan" = '--PHPA' ]; then
-pkg install php
 elif [ "$Pilihan" = '--PY' ]; then
 pkg install python
 elif [ "$Pilihan" = '--PY2' ]; then
 pkg install python2
 elif [ "$Pilihan" = '--GIT' ]; then
 apt install git
-elif [ "$Pilihan" = '--MC' ]; then
-pip2 install mechanize
+elif [ "$Pilihan" = 'UP' ]; then
+pkg update
+elif [ "$Pilihan" = 'UG' ]; then
+pkg upgrade
+elif [ "$Pilihan" = '--CU' ]; then
+pkg install curl
+elif [ "$Pilihan" = '--T' ]; then
+apt-get install toilet
+elif [ "$Pilihan" = '-FIG' ]; then
+apt-get install figlet
 elif [ "$Pilihan" = '--r' ]; then
 pip2 install -r requirements.txt
-elif [ "$Pilihan" = '?' ]; then
-echo "========[ Cara Penggunaan ]========";
-echo "1. Harus Sudah Terinstall Reqruitment";
-echo "===================================";
 else 
 	echo " GAK ADA KOK MAKSAIN SIH ONII-CHAN >.<";
+	echo " Use '?' For Information ";
 fi
