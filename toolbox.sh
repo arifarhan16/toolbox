@@ -121,3 +121,4 @@ else
 	echo " GAK ADA KOK MAKSAIN SIH ONII-CHAN >.<";
 	echo " Use '?' For Information ";
 fi
+
