@@ -102,7 +102,7 @@ pkg install php
 elif [ "$Pilihan" = '--PHPL' ];then
 apt install php
 elif [ "$Pilihan" = '--PHPA' ];then
-apt-get install php
+pkg install php
 elif [ "$Pilihan" = '--PY' ]; then
 pkg install python
 elif [ "$Pilihan" = '--PY2' ]; then
