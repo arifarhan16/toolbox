@@ -27,16 +27,14 @@ echo '';
 # ///////////////////////////////////////////////
 echo "
       \ /   -Installer V.1-
-      o o   Author : Cy#b3r00q Ft Cy#b3r00M
+      o o   Author : Nii-sanHaxor Ft Cy#b3r00M
      /^^^\  Team   : IndoSec | BekasiSec
      |___|  Since  : 2018 | 2019 ";
 echo '';
 echo "\033[1;34mUse '\033[1;33m?\033[1;34m' For More Information Or '\033[1;33mex\033[1;34m' For Exit";
 echo -n  "\033[1;34m >> ";
 read masuk
-if [ "$masuk" = 'ex' ]; then
-exit
-elif [ "$masuk" = '?' ]; then
+if [ "$masuk" = '?' ]; then
 echo "";
 echo "Loading Database...";
 sleep 1;
@@ -66,9 +64,13 @@ echo "\033[1;33mNB : T = TERMUX | L = Linux ";
 echo "\033[1;33mNB : DIHARAPKAN YG TOOLS YG BERWARNA HIJAU HARUS SUDAH DI INSTALL SEMUA";
 echo "\033[1;33mNB : JIKA TERMUX HARAP PONSELNYA DI MIRINGKAN ";
 echo "";
+elif [ "$masuk" = 'ex' ]; then
+exit
+fi
 echo -n  "\033[1;34m[ Installer ]>> ";
 read Pilihan
-elif [ "$Pilihan" = '1' ]; then
+
+if [ "$Pilihan" = '1' ]; then
 git clone https://github.com/arifarhan16/webjav.git
 elif [ "$Pilihan" = '7' ]; then
 git clone https://github.com/arifarhan16/checker.git
@@ -121,4 +123,3 @@ else
 	echo " GAK ADA KOK MAKSAIN SIH ONII-CHAN >.<";
 	echo " Use '?' For Information ";
 fi
-
